@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/lalar/source/repos/XNA_IFRJ_FIXED/XNA_IFRJ_FIXED/Content/model/RobotFella.fbx","C:/Users/lalar/source/repos/XNA_IFRJ_FIXED/XNA_IFRJ_FIXED/Content/bin/Windows/Content/model/RobotFella.xnb","ModelProcessor","ModelContent",29532,39128,0.2679944
+"C:/Users/lalar/source/repos/XNA_IFRJ_FIXED/XNA_IFRJ_FIXED/Content/model/tower.fbx","C:/Users/lalar/source/repos/XNA_IFRJ_FIXED/XNA_IFRJ_FIXED/Content/bin/Windows/Content/model/tower.xnb","ModelProcessor","ModelContent",18076,18417,0.2635211
+"C:/Users/lalar/source/repos/XNA_IFRJ_FIXED/XNA_IFRJ_FIXED/Content/model/Windmill.fbx","C:/Users/lalar/source/repos/XNA_IFRJ_FIXED/XNA_IFRJ_FIXED/Content/bin/Windows/Content/model/Windmill.xnb","ModelProcessor","ModelContent",18828,26305,0.2674351
